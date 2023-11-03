@@ -10,4 +10,4 @@ redirect_from:
 
 I'm a third year undergraduate from [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
-[Email](ljy2021@hust.edu.cn)
+[Email](mailto:ljy2021@hust.edu.cn)
